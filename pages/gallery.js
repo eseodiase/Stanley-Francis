@@ -27,7 +27,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Training section with the Queens at the Sam Ogbemudia Stadium, Benin- City.">
                 <span>Zoom </span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-zoom-in"></i>
                 </a>
             
               </div>
@@ -40,7 +40,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3">
                 <span>Zoom </span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search"></i>
                 </a>
 
               </div>
