@@ -27,7 +27,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Training section with the Queens at the Sam Ogbemudia Stadium, Benin- City.">
                 <span>Zoom </span>
-                <i class="fa fa-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
             
               </div>
@@ -40,7 +40,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3">
                 <span>Zoom </span>
-                <i class="fa fa-search"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -53,7 +53,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2">
                 <span>Zoom </span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -66,7 +66,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2">
                 <span>Zoom </span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -79,7 +79,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2">
                 <span>Zoom </span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -92,7 +92,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3">
                 <span>Zoom </span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -105,7 +105,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1">
                 <span>Zoom</span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -118,7 +118,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3">
                 <span>Zoom</span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -132,7 +132,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3">
                 <span>Zoom</span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -146,7 +146,7 @@ const gallery =()=>{
               <div class="portfolio-links">
                 <a href="images/pic2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3">
                 <span>Zoom Out</span>
-                <i class="bi bi-zoom-in"></i>
+                <i class="fa fa-search-plus"></i>
                 </a>
 
               </div>
@@ -173,7 +173,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
             <div class="count-box">
-              <i class="fa fa-award"></i>
+              <i class="fas fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> one</p>
             </div>
@@ -181,7 +181,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="count-box">
-              <i class="fa fa-award"></i>
+              <i class="fas fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> two</p>
             </div>
@@ -189,7 +189,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="count-box">
-              <i class="fa fa-award"></i>
+              <i class="fas fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> three</p>
             </div>
@@ -197,7 +197,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="count-box">
-              <i class="fa fa-award"></i>
+              <i class="fas fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> four</p>
             </div>
