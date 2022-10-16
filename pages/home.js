@@ -10,7 +10,7 @@ const home =()=>{
                 <p id="quote" style="font-size:18px; margin-bottom:0">
                   Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                 </p>
-                <img src="images/pic1.jpg" class="home-img" alt="">
+                <img src="images/pic1.jpg" class="home-img" alt="" height="320px">
 
               </div>
             </div>
@@ -20,7 +20,7 @@ const home =()=>{
                <p id="quote" style="font-size:18px; margin-bottom:0">
                     Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
                 </p>
-                <img src="images/pic2.jpg" class="home-img" alt="">
+                <img src="images/pic2.jpg" class="home-img" alt="" height="320px">
 
               </div>
             </div>
@@ -30,7 +30,7 @@ const home =()=>{
                 <p id="quote" style="font-size:18px; margin-bottom:0">
                   Enim nisi quem export duis labore cillum quae magna enim sint quorum nulla quem veniam duis minim tempor labore quem eram duis noster aute amet eram fore quis sint minim.
                 </p>
-                <img src="images/pic3.jpg" class="home-img" alt="">
+                <img src="images/pic3.jpg" class="home-img" alt="" height="320px">
 
               </div>
             </div>
@@ -40,7 +40,7 @@ const home =()=>{
                 <p id="quote" style="font-size:18px; margin-bottom:0">
                   Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum
                 </p>
-                <img src="images/pic1.jpg" class="home-img" alt="">
+                <img src="images/pic1.jpg" class="home-img" alt="" height="320px">
               </div>
             </div>
 
@@ -49,7 +49,7 @@ const home =()=>{
                 <p id="quote" style="font-size:18px; margin-bottom:0">
                   Quis quorum aliqua sint quem legam fore sunt eram irure aliqua veniam tempor noster veniam enim culpa labore duis sunt culpa nulla illum cillum fugiat legam esse veniam culpa fore nisi 
                 </p>
-                <img src="images/pic2.jpg" class="home-img" alt="">
+                <img src="images/pic2.jpg" class="home-img" alt="" height="320px">
 
               </div>
             </div>
