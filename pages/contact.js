@@ -19,7 +19,7 @@ const contact =()=>{
           <div class="col-lg-5 d-flex align-items-stretch">
             <div class="info">
               <div class="address">
-                <i class="bi bi-geo-alt"></i>
+                <i class="fa fa-map-marker-alt"></i>
                 <h4>Location:</h4>
                 <p>Stadium Road, Benin City, Edo State, Nigeria.</p>
               </div>
