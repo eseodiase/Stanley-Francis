@@ -20,6 +20,15 @@ const navigation =()=>{
           <a href="#" class="google-plus"><i class="fa fa-whatsapp"></i></a>
           <a href="#" class="linkedin"><i class="fa fa-snapchat"></i></a>
         </div>
+
+    <!-- dev footer -->
+    <div class="dev">
+      <div class="txt">
+        Developed by <a href="https://eseodiase.website/">Ese Odiase</a>
+      </div>
+    </div>
+   <!-- dev footer ending-->
+
       </div>
 
       <nav id="navbar" class="nav-menu navbar">
