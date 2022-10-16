@@ -25,13 +25,13 @@ const contact =()=>{
               </div>
 
               <div class="email">
-                <i class="bi bi-at"></i>
+                <i class="fa fa-at"></i>
                 <h4>Email:</h4>
                 <p>info@example.com</p>
               </div>
 
               <div class="phone">
-                <i class="bi bi-phone"></i>
+                <i class="fa fa-phone"></i>
                 <h4>Call:</h4>
                 <p>+234 80 2345 6789 1</p>
               </div>
@@ -46,14 +46,14 @@ const contact =()=>{
               <div class="row">
                 <div class="form-info col-md-6">
                   <label for="name">
-                  <i class="bi bi-person"></i>  
+                  <i class="fa fa-user"></i>  
                   </label>
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your name" required/>
                 </div>
                 
                 <div class="form-info col-md-6">
                   <label for="name">
-                  <i class="bi bi-at"></i>
+                  <i class="fa fa-at"></i>
                   </label>
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your e-mail" required/>
                 </div>
@@ -61,14 +61,14 @@ const contact =()=>{
               
               <div class="form-info">
                 <label for="name">
-                <i class="bi bi-pencil-square"></i>
+                <i class="fa fa-edit"></i>
                 </label>
                 <input type="text" class="form-control" name="subject" id="subject" placeholder="Your subject" required/>
               </div>
               
               <div class="form-info">
                 <label for="name">
-                <i class="bi bi-envelope-open"></i>
+                <i class="fa fa-envelope-open"></i>
                 </label>
                 <textarea class="form-control" name="message" rows="10" placeholder="Your message" required>
                 </textarea>
