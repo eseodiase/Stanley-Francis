@@ -1,7 +1,5 @@
 
-
 body {
-
   font-family: "Open Sans", sans-serif;
   background: #0B0742;
   color: #fff;
@@ -102,11 +100,6 @@ a:hover {
   font-weight: bold;
 }
 
-.back-to-top:hover {
-  background: #2eafec;
-  color: #fff;
-}
-
 .back-to-top.active {
   visibility: visible;
   opacity: 1;
@@ -116,7 +109,7 @@ a:hover {
 #homeBG {
   width: 100%;
   height: 100vh;
-  background: url("images/web_bg.jpg") top center;
+  background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
 }
 
@@ -230,6 +223,7 @@ li{
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: "Raleway", sans-serif;
+  color: #5E72EB;
 }
 section {
   padding: 60px 0;
@@ -306,6 +300,7 @@ section {
   margin-bottom: 8px;
   transition: 0.3s;
   font-size: 15px;
+  text-decoration: none;
 }
 
 .nav-menu a i,
@@ -380,6 +375,10 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about{
+    background: #2F3A56 ;
+    color: #f0f0f0;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 26px;
@@ -413,7 +412,7 @@ section {
 }
 
 .interest{
-    background: #2F3A56;
+    background: #0B0742;
     color: #f0f0f0;
 }
 
@@ -422,6 +421,8 @@ section {
 --------------------------------------------------------------*/
 .facts {
   padding-bottom: 30px;
+  background: #0B0742;
+  color: #f0f0f0;
 }
 
 .facts .count-box {
@@ -473,7 +474,8 @@ section {
 --------------------------------------------------------------*/
 
 .portfolio{ /* by me */
-    background: #0B0742;
+    background: #2F3A56;
+    color: #f0f0f0;
 }
 
 .portfolio .portfolio-item {
@@ -647,6 +649,8 @@ section {
 --------------------------------------------------------------*/
 .connect {
   padding-bottom: 130px;
+  background: #2F3A56;
+  color: #f0f0f0;
 }
 
 .connect .info {
@@ -675,7 +679,7 @@ section {
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #050d18;
+  color: #2F3A56;
 }
 
 .connect .info p {
@@ -826,9 +830,14 @@ section {
   color: #eaebf0;
 }
 
+.dev a {
+    text-decoration: none;
+    color: #5E72EB;
+}
+
 .homeBottom{
     padding: 30px;
-    opacity: 0.1;
+    background: #2F3A56;
 }
 @media (max-width: 1199px) {
   .dev {
