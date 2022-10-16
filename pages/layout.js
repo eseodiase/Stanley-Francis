@@ -14,23 +14,23 @@ const navigation =()=>{
            </p>
            </div>
            
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+          <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+          <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+          <a href="#" class="google-plus"><i class="fa fa-whatsapp"></i></a>
+          <a href="#" class="linkedin"><i class="fa fa-snapchat"></i></a>
         </div>
       </div>
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li class="homeLi"><a href="#hero" class=""><i class="bi bi-house-fill"></i> <span>Home</span></a></li>
+          <li class="homeLi"><a href="#hero" class=""><i class="fa fa-home"></i> <span>Home</span></a></li>
           
-          <li class="aboutLi"><a href="#about" class="nav-link scrollto"><i class="bi bi-person-fill"></i> <span>About</span></a></li>
+          <li class="aboutLi"><a href="#about" class="nav-link scrollto"><i class="fa fa-user"></i> <span>About</span></a></li>
           
-          <li class="galleryLi"><a href="#portfolio" class="nav-link scrollto"><i class="bi bi-collection-fill"></i> <span>Portfolio</span></a></li>
+          <li class="galleryLi"><a href="#portfolio" class="nav-link scrollto"><i class="fa fa-collection"></i> <span>Portfolio</span></a></li>
 
-          <li class="contactLi"><a href="#contact" class="nav-link scrollto"><i class="bi bi-envelope-fill"></i> <span>Contact</span></a></li>
+          <li class="contactLi"><a href="#contact" class="nav-link scrollto"><i class="fa fa-envelope-fill"></i> <span>Contact</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
