@@ -3,7 +3,7 @@ const navigation =()=>{
 
       <div class="nav-layout">
 
-      <img src="assets/img/profile-img.jpg" alt="" class="img-fluid square">
+      <img src="images/pic1.jpg" alt="" class="img-fluid square">
        <h1 class="text-light">Stanley Francis</h1>
              
         
