@@ -56,7 +56,7 @@ return`<section id="about" class="about">
             <div class="row">
               <div class="col-lg-6">
                 <ul>
-                  <li><i class="bi bi-hourglass-split
+                  <li><i class="fa fa-futbol
                   "></i> <strong>Sport:</strong> 
                   <br/>
                   <span>Football</span>
@@ -67,7 +67,7 @@ return`<section id="about" class="about">
                   </li>
                   
                   <br/>
-                  <li><i class="bi bi-tv"></i> 
+                  <li><i class="fa fa-tv"></i> 
                   <strong>Entertainment:</strong> 
                   <br/>
                   <span>Jokes</span>
