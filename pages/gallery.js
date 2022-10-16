@@ -173,7 +173,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
             <div class="count-box">
-              <i class="bi bi-award"></i>
+              <i class="fa fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> one</p>
             </div>
@@ -181,7 +181,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="count-box">
-              <i class="bi bi-award"></i>
+              <i class="fa fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> two</p>
             </div>
@@ -189,7 +189,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="count-box">
-              <i class="bi bi-award"></i>
+              <i class="fa fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> three</p>
             </div>
@@ -197,7 +197,7 @@ const gallery =()=>{
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="count-box">
-              <i class="bi bi-award"></i>
+              <i class="fa fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
               <p><strong>Description</strong> four</p>
             </div>
