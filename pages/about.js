@@ -4,7 +4,7 @@ return`<section id="about" class="about">
 
         <div class="row">
           <div class="col-lg-4" data-aos="fade-right">
-            <img src="assets/img/profile-img.jpg" class="img-fluid" alt="">
+            <img src="images/pic1.jpg" class="img-fluid" alt="">
           </div>
           
           <div class="subTitle">
