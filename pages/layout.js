@@ -33,29 +33,18 @@ const navigation =()=>{
 
       <nav id="navbar" class="nav-menu navbar">
         <ul>
-          <li class="homeLi"><a href="#hero" class=""><i class="fa fa-home"></i> <span>Home</span></a></li>
+          <li class="homeLi"><a href="#" class=""><i class="fa fa-home"></i> <span>Home</span></a></li>
           
-          <li class="aboutLi"><a href="#about" class="nav-link scrollto"><i class="fa fa-user"></i> <span>About</span></a></li>
+          <li class="aboutLi"><a href="#" class=""><i class="fa fa-user"></i> <span>About</span></a></li>
           
-          <li class="galleryLi"><a href="#portfolio" class="nav-link scrollto"><i class="fa fa-collection"></i> <span>Portfolio</span></a></li>
+          <li class="galleryLi"><a href="#" class=""><i class="fa fa-briefcase"></i> <span>Portfolio</span></a></li>
 
-          <li class="contactLi"><a href="#contact" class="nav-link scrollto"><i class="fa fa-envelope-fill"></i> <span>Contact</span></a></li>
+          <li class="contactLi"><a href="#" class=""><i class="fa fa-envelope"></i> <span>Contact</span></a></li>
         </ul>
       </nav><!-- .nav-menu -->
     </div>
     
       <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-chevron-up"></i></a>
-      
-  <!-- dev footer -->
-  <footer class="dev">
-    <div class="container">
-
-      <div class="txt">
-        Developed by <a href="https://eseodiase.website/">Ese Odiase</a>
-      </div>
-    </div>
-  </footer><!-- End  Footer -->
-
-      `;
+       `;
 }
 export default navigation;
