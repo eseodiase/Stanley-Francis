@@ -103,8 +103,8 @@ const app =()=>{
    */
   on('click', '.toggle-bar', function(e) {
     select('body').classList.toggle('active-bar')
-    this.classList.toggle('bi-filter-left')
-    this.classList.toggle('bi-filter-right')
+    this.classList.toggle('fa fa-bars')
+    this.classList.toggle('fa fa-times')
   })
 
   /**
@@ -118,8 +118,8 @@ const app =()=>{
       if (body.classList.contains('mobile-nav-active')) {
         body.classList.remove('mobile-nav-active')
         let navbarToggle = select('.mobile-nav-toggle')
-        navbarToggle.classList.toggle('bi-filter-left')
-        navbarToggle.classList.toggle('bi-filter-right')
+        navbarToggle.classList.toggle('fa fa-bars')
+        navbarToggle.classList.toggle('fa fa-times')
       }
       scrollto(this.hash)
     }
