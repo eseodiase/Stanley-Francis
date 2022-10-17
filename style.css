@@ -330,8 +330,8 @@ section {
 /* Mobile Nav */
 .toggle-bar {
   position: fixed;
-  right: 15px;
-  top: 15px;
+  right: 5px;
+  top: 20px;
   z-index: 9999;
   border: 0;
   font-size: 24px;
