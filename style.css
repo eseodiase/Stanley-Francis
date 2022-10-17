@@ -346,6 +346,9 @@ section {
   border-radius: 5px;
   cursor: pointer;
 }
+.toggle-bar .fa{
+  margin-top: 5px;
+}
 .name{
  position: fixed;
   left: 15px;
