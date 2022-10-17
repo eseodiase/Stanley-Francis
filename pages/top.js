@@ -1,6 +1,6 @@
 const top =()=>{
     return `
-    <p class="fa fa-bars toggle-bar d-xl-none"></p>
+    <i class="fa fa-bars toggle-bar d-xl-none"></i>
 
    <label class="name">Stanley Francis</label>
     `;
