@@ -115,9 +115,9 @@ const app =()=>{
       e.preventDefault()
 
       let body = select('body')
-      if (body.classList.contains('mobile-nav-active')) {
-        body.classList.remove('mobile-nav-active')
-        let navbarToggle = select('.mobile-nav-toggle')
+      if (body.classList.contains('toggle-bar-active')) {
+        body.classList.remove('toggle-bar-active')
+        let navbarToggle = select('.toggle-bar-toggle')
         navbarToggle.classList.toggle('fa fa-bars')
         navbarToggle.classList.toggle('fa fa-times')
       }
