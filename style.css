@@ -330,21 +330,19 @@ section {
 /* Mobile Nav */
 .toggle-bar {
   position: fixed;
-  right: 5px;
-  top: 20px;
+  right: 15px;
+  top: 15px;
   z-index: 9999;
   border: 0;
   font-size: 24px;
   font-weight: bold;
   transition: all 0.4s;
-  outline: none !important;
+  
   background-color: #5E72EB;
   color: #fff;
   width: 40px;
   height: 40px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  text-align: center;
   line-height: 0;
   border-radius: 5px;
   cursor: pointer;
