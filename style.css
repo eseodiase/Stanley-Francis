@@ -781,6 +781,10 @@ section {
   background: #5E72EB;
 }
 
+.connect .mapouter{
+  width:80vw;
+  height:320px;
+}
 /* added by me */
 
 ::placeholder{
