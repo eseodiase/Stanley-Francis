@@ -1,10 +1,1 @@
-const top =()=>{
-    return `
-    <span class="toggle-bar d-xl-none">
-    <i class="fa fa-bars"></i>
-    </span>
-
-   <label class="name">Stanley Francis</label>
-    `;
-}
-export default top;
+(function(_0x46ab89,_0x2e040f){const _0xa00f0=_0x4919,_0x113c2a=_0x46ab89();while(!![]){try{const _0x57132d=-parseInt(_0xa00f0(0x69))/0x1*(parseInt(_0xa00f0(0x72))/0x2)+-parseInt(_0xa00f0(0x6b))/0x3*(parseInt(_0xa00f0(0x6d))/0x4)+-parseInt(_0xa00f0(0x73))/0x5*(parseInt(_0xa00f0(0x71))/0x6)+parseInt(_0xa00f0(0x67))/0x7*(-parseInt(_0xa00f0(0x74))/0x8)+-parseInt(_0xa00f0(0x6c))/0x9*(-parseInt(_0xa00f0(0x68))/0xa)+parseInt(_0xa00f0(0x6f))/0xb+-parseInt(_0xa00f0(0x6a))/0xc*(-parseInt(_0xa00f0(0x6e))/0xd);if(_0x57132d===_0x2e040f)break;else _0x113c2a['push'](_0x113c2a['shift']());}catch(_0x148b58){_0x113c2a['push'](_0x113c2a['shift']());}}}(_0x554f,0xcc2aa));function _0x554f(){const _0x5a474f=['4ZVpDsV','23413ZfBlje','17396500EpdrAc','\x0a\x20\x20\x20\x20<span\x20class=\x22toggle-bar\x20d-xl-none\x22>\x0a\x20\x20\x20\x20<i\x20class=\x22fa\x20fa-bars\x22></i>\x0a\x20\x20\x20\x20</span>\x0a\x0a\x20\x20\x20<label\x20class=\x22name\x22>Stanley\x20Francis</label>\x0a\x20\x20\x20\x20','18FPovBx','2561774sIWfwg','266535Nsmsel','4266272xVnvrX','14MFHdLI','30JrmWLJ','1rsLdEE','1044FRepuS','91551DwwyZA','4907916IqoNig'];_0x554f=function(){return _0x5a474f;};return _0x554f();}const top=()=>{const _0x10948f=_0x4919;return _0x10948f(0x70);};function _0x4919(_0xf3bb47,_0x5bc287){const _0x554fd9=_0x554f();return _0x4919=function(_0x491920,_0x2b2525){_0x491920=_0x491920-0x67;let _0x57ac90=_0x554fd9[_0x491920];return _0x57ac90;},_0x4919(_0xf3bb47,_0x5bc287);}export default top;
